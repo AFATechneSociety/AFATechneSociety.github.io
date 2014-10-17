@@ -1,12 +1,4 @@
-h1 {
-	color: #ff0000;
-}
-
-h2 {
-	border-bottom: 2px dashed #0f0f0f;
-}
-
-.member {
-	padding: 20px;
-	border: 1px solid #333300;
+body {
+	margin: 20px;
+	background-color: #630000;
 }
