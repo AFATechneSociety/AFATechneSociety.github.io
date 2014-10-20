@@ -1,4 +1,68 @@
-body {
-	margin: 20px;
-	background-color: #630000;
+a {text-decoration:none}
+
+a:link {color:white}
+
+a:hover {
+    color:white;
+    text-decoration:underline
 }
+
+a:visited {color:white}
+
+body {
+    font-family: Arial;
+    color: black;
+    background-color: #630000;
+}
+
+table {empty-cells:hide}
+
+table.menu {
+    background-color: #1919FF;
+    border: 0;
+    color: white;
+    text-align: center;
+}
+
+table.overall {
+    border: 0;
+    height: 100%;
+    width: 1000px;
+}
+table.submenu {
+    background-color: #1919FF;
+    border: 0;
+    color: white;
+    width: 100%;
+}
+
+td.body {
+    background-color: seashell;
+    height: 100%;
+    padding: 10px;
+}
+
+td.current_tab {
+    background-color: mediumblue;
+}
+
+td.header {color: white}
+
+td.logo {
+    height: 175px;
+    width: 175px;
+}
+
+td.menuOver {
+    background-color: mediumblue;
+    text-decoration:underline;
+}
+
+td.menuOut {
+    background-color:default;
+    text-decoration:none;
+}
+td.submenu {
+    width: 150px;
+}
+
