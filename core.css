@@ -43,7 +43,7 @@ td.body {
 }
 
 td.current_tab {
-    background-color: mediumblue;
+    background-color: #0000B8;
 }
 
 td.header {color: white}
@@ -54,7 +54,7 @@ td.logo {
 }
 
 td.menuOver {
-    background-color: mediumblue;
+    background-color: #0000B8;
     text-decoration:underline;
 }
 
